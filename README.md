@@ -8,7 +8,20 @@ It is built for large photo libraries and keeps every photo on the device: no ac
 
 ## App Preview
 
-Screenshots will be added with the App Store release.
+<table>
+  <tr>
+    <td align="center"><strong>Clean</strong></td>
+    <td align="center"><strong>Swipe</strong></td>
+    <td align="center"><strong>On This Day</strong></td>
+    <td align="center"><strong>Progress</strong></td>
+  </tr>
+  <tr>
+    <td><img src="assets/Clean.png" width="200"/></td>
+    <td><img src="assets/Swipe.png" width="200"/></td>
+    <td><img src="assets/On%20This%20Day.png" width="200"/></td>
+    <td><img src="assets/Progress.png" width="200"/></td>
+  </tr>
+</table>
 
 ## What SwipeAway Does
 
